@@ -1,0 +1,5 @@
+# Workspace Config
+.vscode/settings.json
+
+# Modules
+node_modules
